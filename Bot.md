@@ -42,51 +42,21 @@ Vous avez choisi **Bailleur**. Sélectionnez un thème :
 **Info Locataire — Depot de garantie**  
 - Restitution sous **1 mois** si logement en bon état.  
 - Jusqu’à **2 mois** si retenues justifiées.  
-- Possibilité de contester en demandant les justificatifs.  
 
 [⬅️ Retour Locataire](#locataire)
-
----
-
-## bailleur-depot
-**Info Bailleur — Depot de garantie**  
-- Restitution obligatoire : **1 mois** (si bon état) ou **2 mois** (retenues).  
-- Retenues valables uniquement avec factures/devis.  
-
-[⬅️ Retour Bailleur](#bailleur)
 
 ---
 
 ## locataire-reparations
 **Info Locataire — Reparations**  
 - Entretien courant à votre charge (ampoules, joints, ménage).  
-- Pas les grosses réparations.  
 
 [⬅️ Retour Locataire](#locataire)
-
----
-
-## bailleur-reparations
-**Info Bailleur — Reparations**  
-- Vous devez assumer les grosses réparations (chaudière, toiture, structure).  
-- Vous ne pouvez pas les imputer au locataire.  
-
-[⬅️ Retour Bailleur](#bailleur)
 
 ---
 
 ## locataire-etat
 **Info Locataire — Etat des lieux de sortie**  
 - Si vous refusez ou êtes absent → huissier (frais partagés).  
-- Toujours mieux d’être présent pour défendre vos intérêts.  
 
 [⬅️ Retour Locataire](#locataire)
-
----
-
-## bailleur-etat
-**Info Bailleur — Etat des lieux de sortie**  
-- Si le locataire refuse ou est absent → possibilité d’huissier.  
-- Gardez les preuves (convocations écrites).  
-
-[⬅️ Retour Bailleur](#bailleur)
