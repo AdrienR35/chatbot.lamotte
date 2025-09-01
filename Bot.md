@@ -4,4 +4,8 @@ Il n’est pas destiné à un usage quotidien au sein de l’entreprise.
 Son utilisation est autorisée uniquement pour la phase d’expérimentation.
 Merci de vos retours.
 
+1. Comment guider l'utilisateur ?
+
+## Guide l'utilisateur
+Pour guider l'utilisateur, phase de TEST.
 
