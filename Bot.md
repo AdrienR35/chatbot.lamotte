@@ -7,111 +7,204 @@ Ce chatbot a été développé par **Adrien ROUX**, alternant en licence profess
 
 ---
 
-Message initial : choisissez un sujet ⬇️
+Message initial : à qui concerne votre question ? ⬇️
 
-1. [Dépôt de garantie](#dépôt-de-garantie)  
-2. [Réparations](#réparations)  
-3. [État des lieux de sortie](#état-des-lieux-de-sortie)  
-4. [Logement non décent](#logement-non-décent)  
-5. [Charges récupérables](#charges-récupérables)  
-6. [Loyers impayés](#loyers-impayés)  
-7. [Ménage et dépôt de garantie](#ménage-et-dépôt-de-garantie)  
-8. [Nuisances sonores](#nuisances-sonores)  
-9. [Vétusté](#vétusté)  
-10. [Travaux et refus d’accès](#travaux-et-refus-daccès)  
+1. [Locataire](#locataire)  
+2. [Bailleur](#bailleur)  
 
 ---
 
-## Dépôt de garantie
-- Restitution sous **1 mois** si le logement est rendu en bon état.  
-- Jusqu’à **2 mois** si retenues justifiées (travaux, dégradations, charges).  
-- Conserver les justificatifs (factures, devis).  
-- Rappel : la « caution » = une personne, le « dépôt de garantie » = une somme.  
+## Locataire
+Choisissez un sujet :
 
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+1. [Dépôt de garantie](#dépôt-de-garantie-locataire)  
+2. [Réparations](#réparations-locataire)  
+3. [État des lieux de sortie](#état-des-lieux-de-sortie-locataire)  
+4. [Logement non décent](#logement-non-décent-locataire)  
+5. [Charges récupérables](#charges-récupérables-locataire)  
+6. [Loyers impayés](#loyers-impayés-locataire)  
+7. [Ménage et dépôt de garantie](#ménage-et-dépôt-de-garantie-locataire)  
+8. [Nuisances sonores](#nuisances-sonores-locataire)  
+9. [Vétusté](#vétusté-locataire)  
+10. [Travaux et refus d’accès](#travaux-et-refus-daccès-locataire)  
 
----
-
-## Réparations
-- **Locataire** : entretien courant et petites réparations (ampoules, joints, ménage).  
-- **Bailleur** : grosses réparations (chaudière, toiture, canalisations, structure).  
-- Cas fréquents : infiltration, panne d’appareil vétuste.  
-- Source : décret n°87-712 du 26 août 1987.  
-
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+[⬅️ Retour au choix initial](#bienvenue-sur-le-bot-du-groupe-lamotte)
 
 ---
 
-## État des lieux de sortie
-- Si refus/absence du locataire : recours à un **huissier**, frais partagés.  
-- Prévoir notification écrite (mail ou recommandé).  
-- Importance de comparer avec l’état des lieux d’entrée.  
+## Bailleur
+Choisissez un sujet :
 
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+1. [Dépôt de garantie](#dépôt-de-garantie-bailleur)  
+2. [Réparations](#réparations-bailleur)  
+3. [État des lieux de sortie](#état-des-lieux-de-sortie-bailleur)  
+4. [Logement non décent](#logement-non-décent-bailleur)  
+5. [Charges récupérables](#charges-récupérables-bailleur)  
+6. [Loyers impayés](#loyers-impayés-bailleur)  
+7. [Ménage et dépôt de garantie](#ménage-et-dépôt-de-garantie-bailleur)  
+8. [Nuisances sonores](#nuisances-sonores-bailleur)  
+9. [Vétusté](#vétusté-bailleur)  
+10. [Travaux et refus d’accès](#travaux-et-refus-daccès-bailleur)  
 
----
-
-## Logement non décent
-- Le bailleur doit fournir un logement **sécurisé et sain**.  
-- Exemples : humidité excessive, installation électrique dangereuse, absence de chauffage adapté.  
-- Locataire peut demander mise en conformité (LRAR).  
-- Recours possibles : CAF (suspension APL), juge.  
-
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
-
----
-
-## Charges récupérables
-- Le bailleur doit fournir **décompte + justificatifs**.  
-- Le locataire peut consulter les pièces pendant **6 mois**.  
-- Exemples de charges récupérables : eau, ordures ménagères, entretien des parties communes/ascenseur.  
-- Bonne pratique : transmettre un relevé clair et détaillé.  
-
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+[⬅️ Retour au choix initial](#bienvenue-sur-le-bot-du-groupe-lamotte)
 
 ---
 
-## Loyers impayés
-- Vérifier si garant ou Visale actif.  
-- Première étape : relance amiable (mail/téléphone/courrier).  
-- Puis **commandement de payer** par huissier → délai de **2 mois**.  
-- Documenter toutes les relances (traces écrites).  
+## Dépôt de garantie (Locataire)
+- Vous récupérez votre dépôt sous **1 mois** si logement en bon état.  
+- Jusqu’à **2 mois** si retenues justifiées.  
+- Vous pouvez contester en demandant les justificatifs.  
 
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
-
----
-
-## Ménage et dépôt de garantie
-- Retenue possible uniquement si **saleté manifeste** et mentionnée dans l’état des lieux de sortie.  
-- Retenue justifiée par une **facture** (société de ménage, artisan).  
-- Bonne pratique : proposer au locataire de nettoyer avant facturation.  
-
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+[⬅️ Retour Locataire](#locataire)
 
 ---
 
-## Nuisances sonores
-- Le locataire doit respecter la **tranquillité** du voisinage.  
-- Le bailleur/gestionnaire peut envoyer une **mise en demeure**.  
-- Recueillir des preuves : plaintes, constats, main courante.  
-- En cas de répétition/gravité : résiliation possible par juge.  
+## Dépôt de garantie (Bailleur)
+- Vous devez restituer sous **1 mois** (si bon état), sinon **2 mois** max avec justificatifs.  
+- Retenues valables uniquement avec factures/devis.  
 
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+[⬅️ Retour Bailleur](#bailleur)
 
 ---
 
-## Vétusté
-- Les dégradations dues à la **vétusté** sont à la charge du bailleur.  
-- Exemples : moquette usée après 10 ans, peinture défraîchie.  
-- Utiliser une **grille de vétusté** si prévue au bail (ou recommandée localement).  
+## Réparations (Locataire)
+- Vous prenez en charge les petites réparations et l’entretien courant.  
+- Exemple : joints, ménage, ampoules.  
 
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+[⬅️ Retour Locataire](#locataire)
 
 ---
 
-## Travaux et refus d’accès
-- Le locataire doit laisser l’accès pour **travaux nécessaires** (sécurité, urgence, mise en conformité).  
-- Préavis raisonnable à donner pour l’accès.  
-- En cas de refus persistant : recours au juge pour autorisation.  
+## Réparations (Bailleur)
+- Vous devez réaliser les grosses réparations (toiture, chaudière, structure).  
+- Vous ne pouvez pas les imputer au locataire.  
 
-[⬅️ Retour au menu](#bienvenue-sur-le-bot-du-groupe-lamotte)
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## État des lieux de sortie (Locataire)
+- Si vous refusez ou êtes absent, l’huissier intervient (frais partagés).  
+- Toujours mieux d’être présent pour défendre vos intérêts.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## État des lieux de sortie (Bailleur)
+- Si le locataire refuse ou ne vient pas, vous pouvez mandater un huissier.  
+- Gardez les preuves (convocations écrites).  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Logement non décent (Locataire)
+- Vous avez droit à un logement sûr et en bon état.  
+- En cas de manquement : demande de mise en conformité + recours CAF/juge.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Logement non décent (Bailleur)
+- Vous êtes tenu de fournir un logement décent.  
+- Risques : suspension APL, condamnation, travaux imposés.  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Charges récupérables (Locataire)
+- Vous pouvez demander le détail des charges.  
+- Droit de consulter les pièces pendant 6 mois.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Charges récupérables (Bailleur)
+- Vous devez fournir décompte + justificatifs.  
+- Exemples récupérables : eau, ordures, entretien ascenseur.  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Loyers impayés (Locataire)
+- Risque : commandement de payer puis expulsion.  
+- Conseil : contacter rapidement le bailleur pour trouver un arrangement.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Loyers impayés (Bailleur)
+- Étapes : relance, commandement de payer (huissier), délai de 2 mois, puis procédure.  
+- Vérifiez Visale/garant.  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Ménage et dépôt de garantie (Locataire)
+- Le bailleur peut retenir une somme uniquement avec facture de ménage.  
+- Si vous nettoyez vous-même, pas de retenue.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Ménage et dépôt de garantie (Bailleur)
+- Retenue possible si saleté manifeste constatée à la sortie.  
+- Doit être justifiée par facture.  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Nuisances sonores (Locataire)
+- Vous devez respecter la tranquillité du voisinage.  
+- Risques : mises en demeure, voire résiliation judiciaire.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Nuisances sonores (Bailleur)
+- Vous pouvez mettre en demeure le locataire bruyant.  
+- En cas de récidive : résiliation possible avec preuves.  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Vétusté (Locataire)
+- Les dégradations dues à l’usure normale ne sont pas à votre charge.  
+- Exemple : peinture défraîchie, moquette usée.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Vétusté (Bailleur)
+- Vous supportez les réparations liées à la vétusté.  
+- Une grille de vétusté peut servir de référence.  
+
+[⬅️ Retour Bailleur](#bailleur)
+
+---
+
+## Travaux et refus d’accès (Locataire)
+- Vous devez laisser l’accès pour travaux nécessaires (sécurité, conformité).  
+- Si abus → possible recours du bailleur devant le juge.  
+
+[⬅️ Retour Locataire](#locataire)
+
+---
+
+## Travaux et refus d’accès (Bailleur)
+- Prévenez avec un préavis raisonnable.  
+- En cas de refus persistant : saisine du juge pour autorisation.  
+
+[⬅️ Retour Bailleur](#bailleur)
