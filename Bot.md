@@ -9,8 +9,6 @@ Ce chatbot a été développé par **Adrien ROUX**, alternant en licence profess
 ✅ Son utilisation est autorisée uniquement pour la phase d’expérimentation.  
 👉 Merci de vos retours.  
 
----
-
 À qui concerne votre question ? ⬇️  
 
 1. [👤 Locataire](locataire)  
@@ -49,3 +47,4 @@ Vous avez choisi **Bailleur**.
 - Exemple réponse pour bailleur.  
 
 [⬅️ Retour Bailleur](bailleur)
+
